@@ -1,5 +1,7 @@
 # IPMap
 
+![IPMap Screenshot](docs/ipmap.png)
+
 IPMap is a command-line tool for geolocating IP addresses using the IP Geolocation API. It provides detailed information about the given IP address, including its country, state/province, continent, latitude, longitude, timezone, and more.
 
 ## Prerequisites
